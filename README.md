@@ -7,5 +7,5 @@
 
 ### Contact with me
 
- ![emailto:dnurmakhmatov@gmail.com](https://img.shields.io/badge/ijorayev62@gmail.com-082032?style=for-the-badge&logo=Gmail&logoColor=#EA4335)
+ ![emailto:dnurmakhmatov@gmail.com](https://img.shields.io/badge/dnurmakhmatov@gmail.com-082032?style=for-the-badge&logo=Gmail&logoColor=#EA4335)
 [![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/dilxush_dev)
