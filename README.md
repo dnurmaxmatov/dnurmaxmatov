@@ -16,7 +16,7 @@
 
 ---- 
 
-I'm a Back-end Node.js Developer from Uzbekistan , **22 years old**  and **2 years of coding** . 
+I'm a Back-end Node.js Developer from Uzbekistan , **23 years old**  and **2 years of coding** . 
 
 
 ----
